@@ -10,5 +10,5 @@ the agent itself under my direction.
 - **Lessons:** [LESSONS.md](https://github.com/erenyalcinai/ghost-core/blob/main/LESSONS.md) — the most useful file I own
 - **Studio:** [yalcin.ai](https://yalcin.ai) — Vaelis, Desk T
 
-**Open to part-time, remote work** designing the gates and operating agent systems that have to run
-in production. Write to **eren@yalcin.ai**.
+Now shipping the studio's own products with that loop: **Vaelis** (personal stylist, iOS, in TestFlight)
+and **Desk T** (App Store). Questions about the code: **eren@yalcin.ai**.
